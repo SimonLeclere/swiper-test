@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f3aec84c-9779-4354-874f-50ffaf61b6de"
+      }
+    },
+    "owner": "simonleclere"
   }
 }
